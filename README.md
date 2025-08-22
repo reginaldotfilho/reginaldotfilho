@@ -1,4 +1,5 @@
-# 👋 Olá
+# 👋 Olá, eu sou Reginaldo
+#welcome
 
 🎓 Técnico em Informática em Formação – Senac  
 Foco em hardware, lógica de programação e suporte técnico.
