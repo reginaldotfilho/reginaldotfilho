@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Olá
 
-<!--
-**reginaldotfilho/reginaldotfilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Técnico em Informática em Formação – Senac  
+Foco em hardware, lógica de programação e suporte técnico.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Conhecimentos
+- Algoritmos  
+- Linguagem C (nível iniciante)  
+- Arquitetura de computadores  
+- Montagem e diagnóstico de PCs  
+
+---
+
+## 🏅 Certificação em andamento
+- CompTIA A+  
+
+---
+
+## 📌 Estudos e prática
+- Exercícios de lógica de programação em C  
+- Pequenos programas para prática de algoritmos  
+
+---
+
+## 📫 Contato
+- LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/reginaldotfilho/)
