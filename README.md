@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou Reginaldo
-#                       Welcome!
+#   Welcome!
 
 🎓 Técnico em Informática em Formação – Senac  
 Foco em hardware, lógica de programação e suporte técnico.
@@ -15,7 +15,7 @@ Foco em hardware, lógica de programação e suporte técnico.
 ---
 
 ## 🏅 Certificação em andamento
-- CompTIA A+  
+- CompTIA A+ Core 1 (220-1101)
 
 ---
 
