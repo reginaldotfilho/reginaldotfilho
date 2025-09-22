@@ -1,12 +1,12 @@
-# 👋 Olá, eu sou Reginaldo
+# Olá, eu sou Reginaldo
 #   Welcome!
 
-🎓 Técnico em Informática em Formação – Senac  
+Técnico em Informática em Formação – Senac  
 Foco em hardware, lógica de programação e suporte técnico.
 
 ---
 
-## 💻 Conhecimentos
+## Conhecimentos
 - Algoritmos  
 - Linguagem C (nível iniciante)  
 - Montagem e diagnóstico de PCs  
@@ -14,11 +14,11 @@ Foco em hardware, lógica de programação e suporte técnico.
 ---
 
 
-## 📌 Estudos e prática
+## Estudos e prática
 - Exercícios de lógica de programação em C  
 - Pequenos programas para prática de algoritmos  
 
 ---
 
-## 📫 Contato
+## Contato
 - LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/reginaldotfilho/)
