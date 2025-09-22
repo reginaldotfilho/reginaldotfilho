@@ -9,7 +9,8 @@
 ## Conhecimentos
 - Algoritmos  
 - Linguagem C (nível iniciante)  
-- Montagem e diagnóstico de PCs  
+- Montagem e diagnóstico de PCs
+- Arduino
 
 ---
 
