@@ -1,3 +1,4 @@
+![](banner.jpg)
 # Olá, eu sou Reginaldo
 #   Welcome!
 
