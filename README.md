@@ -9,15 +9,10 @@ Foco em hardware, lógica de programação e suporte técnico.
 ## 💻 Conhecimentos
 - Algoritmos  
 - Linguagem C (nível iniciante)  
-- Arquitetura de computadores  
 - Montagem e diagnóstico de PCs  
 
 ---
 
-## 🏅 Certificação em andamento
-- CompTIA A+ Core 1 (220-1101)
-
----
 
 ## 📌 Estudos e prática
 - Exercícios de lógica de programação em C  
